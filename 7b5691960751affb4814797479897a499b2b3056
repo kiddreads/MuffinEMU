@@ -1,0 +1,1 @@
+Games run much faster, especially once the device warms up. MuffinEMU now uses one CPU core by default, the way MeloCafe does, and no longer slows the emulated CPU down when iOS reports the device is hot.
